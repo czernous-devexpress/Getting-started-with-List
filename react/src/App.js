@@ -20,8 +20,7 @@ const App = () => {
             grouped={true}
             searchEnabled={true}
             searchExpr="Name"
-            allowItemDeleting={true}
-        >
+            allowItemDeleting={true}>
             <ItemDragging allowReordering={true} />
         </List>
     );
