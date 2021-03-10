@@ -1,4 +1,4 @@
-export const products = [
+var products = [
     {
         ID: 1,
         Name: "HD Video Player",
